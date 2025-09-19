@@ -3,7 +3,7 @@ import numpy as np
 inputs = np.array([[0, 0, 1], [1, 0, 1], [1, 1, 1], [1, 1, 0]])
 outputs = np.array([1, 1, 0, 0])
 bias = 0
-weights = np.array([0, 0, 0])
+weights = np.array([0.1, 0.1, 0.1])
 maxIterations = 1000
 learningRate = 0.1
 
