@@ -17,7 +17,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/dataset_oil_training.csv">
+        <entry key="/data/dataset_oil_training.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
