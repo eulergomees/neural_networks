@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/data/dataset_iris.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value=";" />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/dataset_oil_test.csv">
           <value>
             <Attribute>
@@ -17,7 +10,6 @@
             </Attribute>
           </value>
         </entry>
-<<<<<<< Updated upstream
         <entry key="/data/dataset_oil_training.csv">
           <value>
             <Attribute>
@@ -25,8 +17,6 @@
             </Attribute>
           </value>
         </entry>
-=======
->>>>>>> Stashed changes
       </map>
     </option>
   </component>
