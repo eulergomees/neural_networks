@@ -17,6 +17,7 @@
             </Attribute>
           </value>
         </entry>
+<<<<<<< Updated upstream
         <entry key="/data/dataset_oil_training.csv">
           <value>
             <Attribute>
@@ -24,6 +25,8 @@
             </Attribute>
           </value>
         </entry>
+=======
+>>>>>>> Stashed changes
       </map>
     </option>
   </component>
